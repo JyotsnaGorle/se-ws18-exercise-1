@@ -1,10 +1,7 @@
 
 /* Software Engineering 2018/19 WiSe  <Assignment 1 >
   -----------------------------------------------------------------
-   Name : YoungmoOh(120205) , name here (matriculation number here) 
-   
-   Reference : 
-   
+   Name : YoungmoOh(120205) 
 */
    
 import java.awt.image.BufferedImage;
